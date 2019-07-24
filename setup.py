@@ -58,3 +58,5 @@ setup(
         "Topic :: Utilities"
     ]
 )
+
+# [ai:2026-07-23] Add test coverage before v1.2.
